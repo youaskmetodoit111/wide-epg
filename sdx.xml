@@ -78,38 +78,38 @@
   </programme>
 
   <!-- 27 February 2026 -->
-  <programme start="20260227193000 +0100" stop="20260227200000 +0100" channel="SDX6">
+  <programme start="20260227193000 +0100" stop="20260227200000 +0100" channel="WiDE">
     <title>Test Programming</title>
     <desc>30 minute music videos.</desc>
     <display-name>WiDE</display-name>
   </programme>
 
-  <programme start="20260227200000 +0100" stop="20260227213000 +0100" channel="SDX6">
+  <programme start="20260227200000 +0100" stop="20260227213000 +0100" channel="WiDE">
     <title>Street View Junk</title>
     <desc>Traveling through the world and viewing archived old photos from Google Street View and other users.</desc>
     <display-name>WiDE</display-name>
   </programme>
 
-  <programme start="20260227213000 +0100" stop="20260228000000 +0100" channel="SDX6">
+  <programme start="20260227213000 +0100" stop="20260228000000 +0100" channel="WiDE">
     <title>Off-Air</title>
     <desc>Testcard.</desc>
     <display-name>WiDE</display-name>
   </programme>
 
   <!-- 28 February 2026 -->
-  <programme start="20260228193000 +0100" stop="20260228200000 +0100" channel="SDX6">
+  <programme start="20260228193000 +0100" stop="20260228200000 +0100" channel="WiDE">
     <title>Test Programming</title>
     <desc>30 minute music videos.</desc>
     <display-name>WiDE</display-name>
   </programme>
 
-  <programme start="20260228200000 +0100" stop="20260228213000 +0100" channel="SDX6">
+  <programme start="20260228200000 +0100" stop="20260228213000 +0100" channel="WiDE">
     <title>Street View Junk</title>
     <desc>Traveling through the world and viewing archived old photos from Google Street View and other users.</desc>
     <display-name>WiDE</display-name>
   </programme>
 
-  <programme start="20260228213000 +0100" stop="20260301000000 +0100" channel="SDX6">
+  <programme start="20260228213000 +0100" stop="20260301000000 +0100" channel="WiDE">
     <title>Off-Air</title>
     <desc>Testcard.</desc>
     <display-name>WiDE</display-name>
